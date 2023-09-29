@@ -163,8 +163,8 @@ spacing: space-between
 src: $header-mobile.logo
 width.fixed.px: 32
 height: auto
-border-radius.px: 20
-margin-vertical.px: 10
+border-radius.px: 50
+margin-vertical.px: 40
 
 -- ftd.text: $header-mobile.logo-text
 margin-horizontal.px: 10
