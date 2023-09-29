@@ -212,7 +212,7 @@ role: $inherited.types.label-large
 text-align: center
 margin-vertical.px: 28
 margin-horizontal.px: 32
-color: white
+color: pink
 link: $header-mobile.cta-text-2-url
 
 
