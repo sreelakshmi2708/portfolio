@@ -168,7 +168,7 @@ margin-vertical.px: 10
 
 -- ftd.text: $header-mobile.logo-text
 margin-horizontal.px: 10
-text-align: left
+text-align: center
 align-self: center
 color: white
 
