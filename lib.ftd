@@ -56,9 +56,9 @@ colors: $color-values-2
 
 -- ftd.linear-gradient-color list color-values-2:
 
--- ftd.linear-gradient-color: #111111
+-- ftd.linear-gradient-color: #ff0000
 
--- ftd.linear-gradient-color: #222222
+-- ftd.linear-gradient-color: #ff0000
 
 -- end: color-values-2
 
@@ -196,7 +196,7 @@ if: { header-mobile.open }
 width: fill-container
 height: hug-content
 padding.px: 20
-background.solid: #000000
+background.solid: #512378
 sticky: true
 
 -- ftd.text: $header-mobile.cta-text-1
