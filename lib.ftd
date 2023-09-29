@@ -401,7 +401,7 @@ link: $footer.url-3
 
 -- ftd.row:
 margin-top.vh: 1
-spacing.fixed.vh: 0.9
+spacing.fixed.vh: 0.2
 
 -- ftd.text: Made with 
 role: $inherited.types.label-large
