@@ -56,9 +56,9 @@ colors: $color-values-2
 
 -- ftd.linear-gradient-color list color-values-2:
 
--- ftd.linear-gradient-color: #111111
+-- ftd.linear-gradient-color: #286351
 
--- ftd.linear-gradient-color: #222222
+-- ftd.linear-gradient-color: #253673
 
 -- end: color-values-2
 
